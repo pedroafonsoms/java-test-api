@@ -1,6 +1,5 @@
 package test;
 
-import io.restassured.RestAssured;
 import io.restassured.module.jsv.JsonSchemaValidator;
 import org.junit.BeforeClass;
 import org.junit.Test;

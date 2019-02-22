@@ -1,7 +1,6 @@
 package test;
 
 import com.google.gson.JsonObject;
-import io.restassured.RestAssured;
 import org.hamcrest.collection.IsArray;
 import org.junit.BeforeClass;
 import org.junit.Test;
